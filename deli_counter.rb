@@ -2,7 +2,7 @@
 katz_deli = []
 
 #line method
-#defining our line method, using the argument of katz_deli. using an if else conditional statement here to tell my program to make a decision.
+#I'm defining my line method using the argument "katz_deli."" I'm using an if else conditional statement here to tell my program to make a decision.
 def line(katz_deli)
  length = "The line is currently:"
 #i'm using a string class method (.length) here to calculate the character length of the array "katz_deli."
