@@ -1,3 +1,6 @@
+#goal of my program is to create a computerized queue to keep track of customers (Ada, Kent, Grace) and improve productivity
+
+
 #this is the beginning of the day. Currently there are no customers, so an empty katz's is represented by an empty array.
 katz_deli = []
 
