@@ -3,6 +3,7 @@
 
 #this is the beginning of the day. Currently there are no customers, so an empty katz's is represented by an empty array.
 katz_deli = []
+name = "Ada" , "Kent", "Grace"
 
 #line method
 #I'm defining my line method using the argument "katz_deli."" I'm using an if else conditional statement here to tell my program to make a decision.
