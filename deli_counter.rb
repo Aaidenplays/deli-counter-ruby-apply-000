@@ -28,7 +28,7 @@ def take_a_number (katz_deli, name)
     puts "The line is currently empty."
        else
 # .length returns number of names in katz_deli array.
-# see line 13 
+# see line 13
     puts "Welcome, #{name}. You are number #{katz_deli.length} in line."
   end
 end
